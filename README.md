@@ -19,8 +19,6 @@ export VAULT_TOKEN=hunter2
 
     * Bash: Contains scripts written in Bash.
     * Jupyter: Contains Jupyter notebooks for data analysis.
-    * Python: Contains Python scripts for generating data.
-    * Testing: Contains test scripts and files.
 
 **doesnt yet work for HCP Vault because activity/export API endpoint is only available form root namespace.**
     
